@@ -1,0 +1,62 @@
+body {
+    background:  url(fff.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+div {
+    border: 1px solid lightgrey;
+    height: 30rem;
+    width: 23rem;
+    margin-top: 4rem;
+    margin-left: 32rem;
+    background-color: rgba(39, 39, 70, 0.473);
+    border-radius: 0.5rem 3rem;
+    border: none;
+    box-shadow: 3px 6px 4px rgb(252, 77, 199);
+}
+
+.avatar {
+    border-radius: 50%;
+    height: 8rem;
+    width: 8rem;
+    margin-left: 7rem;
+    margin-top: -3rem;
+}
+
+#user {
+    margin-left: 3rem;
+    margin-top: 5rem;
+    height: 2.8rem;
+    width: 17rem;
+    border-radius: 0.5rem;
+    background-color: rgba(24, 8, 63, 0.74);
+    border: none;
+    font-size: 1rem;
+}
+#pwd {
+    margin-left: 3rem;
+    margin-top: 2rem;
+    height: 2.8rem;
+    width: 17rem;
+    border-radius: 0.5rem;
+    background-color: rgba(24, 8, 63, 0.74);
+    border: none;
+    font-size: 1rem;
+}
+button {
+    margin-left: 3.5rem;
+    margin-top: 2rem;
+    height: 3rem;
+    width: 17rem;
+    color: white;
+    background-color: rgb(37, 10, 16);
+    border-radius: .5rem;
+    border: none;
+    font-size: 1rem;
+    font-weight: bolder;
+    font-family: 'Nonito', sans-serif;
+}
